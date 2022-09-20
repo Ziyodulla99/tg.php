@@ -3,7 +3,7 @@
 ob_start();
 error_reporting(0);
 
-define("AlijonovUz",'5649952230:AAH7GVgySc2JGlU477dYep-L2nfMKJZn_1c');
+define("AlijonovUz",'5739773016:AAGOhCfpwdj4nbPheAf9YF0Lrt4uadiTDG8');
 $admin = "2105500573";
 $user = "AlijonovUz";
 $bot = bot('getme',['bot'])->result->username;
